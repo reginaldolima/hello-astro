@@ -1,6 +1,6 @@
 ---
-title: 'Turminha do Batutinha'
+title: 'Hello Astro'
 image: ../../assets/astro/astro-icon-dark.png
-contact: ''
-description: ''
+contact: 'info@hellotham.com'
+description: 'Astronaut'
 ---
